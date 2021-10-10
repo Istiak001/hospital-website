@@ -14,7 +14,7 @@ const Home = (props) => {
         <div className="content">
         <h5> {course.slice(0,44)} </h5>
         <h6 className="text-muted">Instructor : {author} </h6>
-          <button className="btn btn-warning mb-3" >Buy Now : ${price} </button>     
+          <button className="btn btn-primary mb-3" >Buy Now : ${price} </button>     
         </div>
       </div>
       
