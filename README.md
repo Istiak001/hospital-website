@@ -14,4 +14,7 @@
 
 MedicNucleus is an organization with equal emphasis on leadership, technology,quality and passion. It believes in continuous innovation and progress.Its endeavor is to bring the best minds together in a uniquely rich and stimulating environment......
 
-# By Al Noor Istiak Mahmud .# healthcare-related-website-Istiak001
+# By Al Noor Istiak Mahmud .
+
+
+# healthcare-related-website-Istiak001
