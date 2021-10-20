@@ -1,0 +1,22 @@
+.wrapper{
+  background-color:tomato;
+}
+.footer-title{
+  color: white;
+  padding: 13px 0px;
+}
+.footer-link{
+  color: #dfe6e9;
+  padding: 2px 2px;
+  transition: 0.5s;
+}
+.footer-link:hover{
+  color: tomato;
+}
+.s-icon{
+  font-size: 25px;
+  padding: 0px 2px;
+}
+.contact-icon{
+  color: tomato;
+}
